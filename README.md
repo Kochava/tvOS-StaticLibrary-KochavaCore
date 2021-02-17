@@ -10,9 +10,13 @@ The KochavaCore module provides core support for all modules within the Kochava 
 
 The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-C and Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.  
 
+## Built on
+
+* Xcode 9.2.0
+
 ## Platforms
 
-* tvOS 10.2
+* tvOS 9.0
 
 ## Dependencies
 
