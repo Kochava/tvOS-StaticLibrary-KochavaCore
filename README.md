@@ -1,6 +1,6 @@
 # tvOS-StaticLibrary-KochavaCore
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaCore?include_prereleases)
+[![Releases](https://img.shields.io/github/v/release/kochava/tvOS-StaticLibrary-KochavaTracker?include_prereleases&sort=semver)](https://github.com/Kochava/tvOS-StaticLibrary-KochavaTracker/releases)
 
 <img src="https://storage.googleapis.com/kochava-web/2016/07/Kochava-horizontal-black-800x154.png" width="260" />
 
@@ -22,9 +22,9 @@ The Kochava SDK is a lightweight and easy to integrate SDK written in Objective-
 
 * None
 
-## Installation
+## Integration
 
-[Kochava Apple SDK - Getting Started](https://support.kochava.com/sdk-integration/sdk-kochavatracker-ios)
+[Kochava Apple SDK Integration](https://support.kochava.com/sdk-integration/sdk-kochavatracker-ios)
 
 ## Author
 
